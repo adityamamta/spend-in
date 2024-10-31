@@ -8,3 +8,5 @@
 - Built with HTML, CSS, and JavaScript for smooth, dynamic user interactions.
 
 - 💼 Contact me on linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/)
+
+![preview img](img/spend-in.png)
