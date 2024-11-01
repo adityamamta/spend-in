@@ -10,3 +10,5 @@
 - 💼 Contact me on linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/)
 
 ![preview img](img/spend-in-mockup.png)
+adityamamta4@gmail.com
+
