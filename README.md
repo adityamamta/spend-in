@@ -1,5 +1,5 @@
 # Spend In
-## [![Click Me!](https://img.shields.io/badge/Click_Me!-blue?style=for-the-badge)](https://adityamamta.github.io/spend-in/)
+## <a href="https://adityamamta.github.io/spend-in/"><img src="image/readme-btn.png" alt="Click to view live website" height="120"></a>
 ### About Spend In 
 - One-page, Responsive Expense Management Website
 - Designed for businesses to manage and track expenses efficiently.
