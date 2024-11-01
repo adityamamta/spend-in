@@ -616,6 +616,7 @@ section {
     gap: 3.2rem;
     width: 55rem;
     margin-top: 4.8rem;
+    animation: left-reveal .3s ease;
 }
 
 .story h4 {
@@ -649,6 +650,25 @@ section {
 
 .story-img-container img {
     width: 43.4rem;
+    animation: right-reveal .3s ease;
+}
+
+@keyframes left-reveal {
+    0% {
+        transform: translateX(-3rem);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+@keyframes right-reveal {
+    0% {
+        transform: translateX(3rem);
+    }
+    100% {
+        transform: translateX(0);
+    }
 }
 
 .hidden, .story .hidden {
