@@ -9,4 +9,4 @@
 
 - 💼 Contact me on linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/)
 
-![preview img](img/spend-in.png)
+![preview img](img/spend-in-mockup.png)
