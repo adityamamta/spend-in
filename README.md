@@ -7,8 +7,9 @@
 - Mobile-First design methodology, optimized for all screen sizes.
 - Built with HTML, CSS, and JavaScript for smooth, dynamic user interactions.
 
-💼 Contact me on linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/) <br>
-adityamamta4@gmail.com
+### 💼 Contact me 
+- linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/)
+- Email: adityamamta4@gmail.com
 
 ![preview img](img/spend-in-mockup.png)
 
